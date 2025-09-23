@@ -1,0 +1,21 @@
+
+
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: line-through;
+    font-size:20;    
+    font-weight:700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+h3{
+    color: brown;
+}
+h4{
+    color: blue;
+    text-align: center;
+}
