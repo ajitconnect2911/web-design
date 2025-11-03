@@ -1,16 +1,10 @@
-p {
-    text-align: justify;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    color: rgb(130, 7, 7); /* corrected property name and syntax */
-}
-h1 {
-    text-align: center;
-    color: white;
-    background-color: rgb(154, 7, 7);
-    border: 2px solid black;
-    padding: 10px;
-    border-radius: 10px;
+img[alt]
+{
+    border: 4px;
+    border-color:blueviolet
+    border-style solid;
+  
+img[alt=""]
+{
+    border: 2px solid green;
 }
