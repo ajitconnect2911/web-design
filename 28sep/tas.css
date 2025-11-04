@@ -1,0 +1,4 @@
+body {
+    min-height: 100vh;
+    background-image:conic-gradient(to right,rgba(255, 0, 183, 0),rgba(187, 17, 17, 0.5),rgba(7, 154, 78, 0.8), rgb(152, 7, 154));
+}
